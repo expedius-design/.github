@@ -1,2 +1,0 @@
-# .github
-Expedius profile
